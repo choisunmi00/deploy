@@ -1,0 +1,5 @@
+User-agent: *
+
+Disallow: /norobots/
+
+Sitemap: https://choisunmi00.github.io/deploy/sitemap.xml
